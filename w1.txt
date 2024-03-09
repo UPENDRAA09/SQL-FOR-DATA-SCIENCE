@@ -1,0 +1,64 @@
+1.Write type of attributes.
+ there are six type of attributes
+ key attribure
+ simple attribute
+ composite attribute
+ derived attribute
+ single value attribute
+  multi value attribute
+2.ACID stands for?
+  Atomicity consistency isolation durability.
+3.Write three examples of data definition language commands.
+ auto-committed
+ create
+ alter
+ drop
+ truncate etc.
+4.Write examples of transaction control language commands.
+ commit
+ rollback
+ savepoint
+5.Write name of default tables of sakila schema of MySQL.
+ actor
+ address
+ category
+ city
+ country
+ customer
+ film
+ film_actor
+ film_category
+ film_text
+ inventory
+ language 
+ payment
+ rental
+ staff
+ store
+7.Look for foreign keys used in the table customer (Navigator).
+ customer_id SMALLINT
+8.Look for indexes used in table film_actor (Navigator).
+ actor_id SMLLINT
+ film_id SMALLINT
+ last_update TIMESTAMP
+9.Look for stored procedures used in the sakila database (Navigator).
+ film_in_stock
+ film_not_in_stock
+ rewards_report
+10.Look for views used in the sakila database (Navigator).
+ actor_info
+ customer_list
+ film_list
+ nicer_but_slower_film_category
+ sales_by_film_category
+ sales_by_store
+ staff_list
+11.Write keyboard shortcut for executing all statements in MySQL.
+ ctrl+shift+Enter
+12.Write keyboard shortcut for opening new tab in MySQL.
+ ctrl+T
+
+
+ 
+
+  
